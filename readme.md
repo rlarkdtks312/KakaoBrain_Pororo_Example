@@ -21,6 +21,7 @@
 - 윈도우 검색창에 'windows 기능 켜기/끄기' 검색
 - 'Linux용 windows 하위 시스템' 기능 활성화
 - '가상 머신 플랫폼' 기능 활성화
+![Alt text](./image/image-15.png)
 
 4. WSL 설치
 - 윈도우 검색창에 'windows powershell'검색
