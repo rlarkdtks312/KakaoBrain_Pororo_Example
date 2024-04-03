@@ -74,17 +74,15 @@
 - conda create -n 환경이름 python=3.7.16
 - conda env list
 - conda activate 환경이름
-
 - 주피터 노트북 설치 및 커널 연결
 - pip install jupyter notebook
 - pip install ipykernel
 - python -m ipykernel install --user --name 환경이름 -- display-name 표시커널이름
 - jupyter notebook
-![Alt text](/image/image-12.png)
 
 13. Pytorch 및 cuda 설치
 - conda install pytorch==1.6.0 torchvision==0.7.0 cudatoolkit=10.1 -c pytorch
-![Alt text](/image/image-13.png)
+![Alt text](./image/image-12.png)
 
 14. Pororo 설치
 - git clone https://github.com/kakaobrain/pororo.git
